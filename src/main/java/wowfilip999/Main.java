@@ -1,4 +1,4 @@
-package org.example;
+package wowfilip999;
 import org.apache.commons.codec.digest.DigestUtils;
 
 import java.awt.*;
@@ -8,7 +8,6 @@ import java.awt.event.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import javax.swing.filechooser.*;
-import javax.swing.plaf.nimbus.NimbusLookAndFeel;
 
 class lb  {
     public JTextField md2_label = new JTextField();
